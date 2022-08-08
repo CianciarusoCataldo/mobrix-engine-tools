@@ -69,7 +69,7 @@ export const createMoBrixEngineAction = <
  * receives the actual state and the action, and return the updated state
  * - `additionalReducer` : additional reducer to merge to the returned one
  *
- * @returns a modular-engine reducer, ready to be used inside modular-engine system
+ * @returns a MoBrix-engine reducer, ready to be used inside modular-engine system
  *
  * @see https://cianciarusocataldo.github.io/mobrix-engine/docs
  *

@@ -19,7 +19,7 @@
 
 <br>
 
-A collection of useful helper functions to to easily work with [MoBrix-engine system](https://github.com/CianciarusoCataldo/mobrix-engine)
+A collection of useful tools to easily work with [MoBrix-engine system](https://github.com/CianciarusoCataldo/mobrix-engine)
 
 ---
 
