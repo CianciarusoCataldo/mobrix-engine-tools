@@ -1,6 +1,6 @@
 {
   "name": "mobrix-engine-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Useful tools to easily work with MoBrix-engine system",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
